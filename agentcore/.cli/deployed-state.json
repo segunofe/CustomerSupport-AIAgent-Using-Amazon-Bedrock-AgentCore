@@ -1,3 +1,42 @@
 {
-  "targets": {}
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "CustomerSupport": {
+            "runtimeId": "CustomerSupport_CustomerSupport-4b44OEApao",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:344502231469:runtime/CustomerSupport_CustomerSupport-4b44OEApao",
+            "roleArn": "arn:aws:iam::344502231469:role/AgentCore-CustomerSupport-ApplicationAgentCustomerS-MVUuf2qZmAUS"
+          }
+        },
+        "memories": {
+          "SharedMemory": {
+            "memoryId": "CustomerSupport_SharedMemory-XPR9BAByjE",
+            "memoryArn": "arn:aws:bedrock-agentcore:us-east-1:344502231469:memory/CustomerSupport_SharedMemory-XPR9BAByjE"
+          }
+        },
+        "gateways": {
+          "my-gateway-secure": {
+            "gatewayId": "customersupport-my-gateway-secure-bjdhjgsif8",
+            "gatewayArn": "arn:aws:bedrock-agentcore:us-east-1:344502231469:gateway/customersupport-my-gateway-secure-bjdhjgsif8",
+            "gatewayUrl": "https://customersupport-my-gateway-secure-bjdhjgsif8.gateway.bedrock-agentcore.us-east-1.amazonaws.com",
+            "targets": {
+              "WarrantyCheck": {
+                "targetId": "KLW1COK9YL"
+              }
+            }
+          }
+        },
+        "onlineEvalConfigs": {
+          "QualityMonitor": {
+            "onlineEvaluationConfigId": "CustomerSupport_QualityMonitor-2RfqpdFYtL",
+            "onlineEvaluationConfigArn": "arn:aws:bedrock-agentcore:us-east-1:344502231469:online-evaluation-config/CustomerSupport_QualityMonitor-2RfqpdFYtL",
+            "agent": "CustomerSupport"
+          }
+        },
+        "stackName": "AgentCore-CustomerSupport-default",
+        "deployHash": "963c6c16ee5fcfa6"
+      }
+    }
+  }
 }

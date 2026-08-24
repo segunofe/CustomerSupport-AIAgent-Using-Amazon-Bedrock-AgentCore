@@ -36,6 +36,13 @@ my-project/
 - **Python 3.10+** and **uv** for Python agents ([install uv](https://docs.astral.sh/uv/getting-started/installation/))
 - **AWS credentials** configured (`aws configure` or environment variables)
 - **Docker** (only for Container build agents)
+- 
+## Some cool ScreenShots from the AI Agent
+<img width="1572" height="856" alt="image" src="https://github.com/user-attachments/assets/b33ae6dd-8ff1-4297-b0cb-cada29535997" />
+<img width="1495" height="746" alt="image" src="https://github.com/user-attachments/assets/8abe1519-4cbb-4334-ab7c-ba6bb1270217" />
+<img width="1486" height="865" alt="image" src="https://github.com/user-attachments/assets/41fdad12-2239-494f-b59e-06d1dcb701d3" />
+<img width="1496" height="753" alt="image" src="https://github.com/user-attachments/assets/f0f0d357-db17-44e2-990f-aa72be0ea5c7" />
+
 
 ### Development
 

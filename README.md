@@ -1,7 +1,7 @@
 # Customer Support Agent using Amazon Bedrock AgentCore
 
 ### Overview 
-I built a customer support agent to help customers get information about available products, return policies, warranties, and some real time information. 
+I built this customer support agent to help customers get information about available products, return policies, warranties, and some real time information. 
 
 I used [AgentCore CLI](https://github.com/aws/agentcore-cli).
 

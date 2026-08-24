@@ -1,14 +1,13 @@
-# AgentCore Project
+# Customer Support Agent using Amazon Bedrock AgentCore
+
+### Overview 
+I built a customer support agent to help customers get information about available products, return policies, warranties, and some real time information. 
 
 This project was created with the [AgentCore CLI](https://github.com/aws/agentcore-cli).
 
 Architectural Diagram 
 <img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/a304358a-693d-4779-a337-734b1ef8f675" />
 https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/60-lab5-evals
-
-
-
-
 
 ## Project Structure
 

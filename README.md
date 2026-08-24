@@ -13,6 +13,9 @@ https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/60-l
 <img width="1495" height="746" alt="image" src="https://github.com/user-attachments/assets/8abe1519-4cbb-4334-ab7c-ba6bb1270217" />
 <img width="1486" height="865" alt="image" src="https://github.com/user-attachments/assets/41fdad12-2239-494f-b59e-06d1dcb701d3" />
 <img width="1496" height="753" alt="image" src="https://github.com/user-attachments/assets/f0f0d357-db17-44e2-990f-aa72be0ea5c7" />
+<img width="1593" height="1028" alt="image" src="https://github.com/user-attachments/assets/4898ddb6-f0d9-4b79-aab3-e6db209750b8" />
+
+
 
 I did the AWS Workshop on Getting Started with Amazon Bedrock AgentCore. 
 

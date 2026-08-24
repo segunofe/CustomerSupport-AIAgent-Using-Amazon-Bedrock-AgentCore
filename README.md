@@ -14,35 +14,19 @@ https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/60-l
 <img width="1486" height="865" alt="image" src="https://github.com/user-attachments/assets/41fdad12-2239-494f-b59e-06d1dcb701d3" />
 <img width="1496" height="753" alt="image" src="https://github.com/user-attachments/assets/f0f0d357-db17-44e2-990f-aa72be0ea5c7" />
 
+I did the AWS Workshop on Getting Started with Amazon Bedrock AgentCore. 
 
-## Project Structure
+Lab 1: Building the Agent Prototype
 
-```
-my-project/
-├── AGENTS.md               # AI coding assistant context
-├── agentcore/
-│   ├── agentcore.json      # Project config (agents, memories, credentials, gateways, evaluators)
-│   ├── aws-targets.json    # Deployment targets (account + region)
-│   ├── .env.local          # Secrets — API keys (gitignored)
-│   ├── .llm-context/       # TypeScript type definitions for AI assistants
-│   │   ├── agentcore.ts    # AgentCoreProjectSpec types
-│   │   ├── aws-targets.ts  # Deployment target types
-│   │   └── mcp.ts          # Gateway and MCP tool types
-│   └── cdk/                # CDK infrastructure (@aws/agentcore-cdk)
-├── app/                    # Agent application code
-└── evaluators/             # Custom evaluator code (if any)
-```
+Lab 2: Add Memory to Your Agent
 
-## Getting Started
+Lab 3: Scaling Tools with Gateway
 
-### Prerequisites
+Lab 4: Securing and bserving in Production
 
-- **Node.js** 20.x or later
-- **Python 3.10+** and **uv** for Python agents ([install uv](https://docs.astral.sh/uv/getting-started/installation/))
-- **AWS credentials** configured (`aws configure` or environment variables)
-- **Docker** (only for Container build agents)
+Lab 5: Evaluating Agent Quality (Got error in this lab)
 
-I used [AgentCore CLI](https://github.com/aws/agentcore-cli).
+Lab 6: Building the Customer Interface
 
 ### Development
 

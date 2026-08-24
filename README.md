@@ -37,7 +37,7 @@ my-project/
 - **AWS credentials** configured (`aws configure` or environment variables)
 - **Docker** (only for Container build agents)
 - 
-## Some cool ScreenShots from the AI Agent
+## Some cool screenshots from the AI Agent
 <img width="1572" height="856" alt="image" src="https://github.com/user-attachments/assets/b33ae6dd-8ff1-4297-b0cb-cada29535997" />
 <img width="1495" height="746" alt="image" src="https://github.com/user-attachments/assets/8abe1519-4cbb-4334-ab7c-ba6bb1270217" />
 <img width="1486" height="865" alt="image" src="https://github.com/user-attachments/assets/41fdad12-2239-494f-b59e-06d1dcb701d3" />

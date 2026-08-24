@@ -48,6 +48,9 @@ Deploy to AWS:
 ```bash
 agentcore deploy
 ```
+
+<img width="975" height="449" alt="image" src="https://github.com/user-attachments/assets/fbaa0e78-5fa8-4a62-b12a-76690dc2db98" />
+
 <img width="975" height="312" alt="image" src="https://github.com/user-attachments/assets/0b50250c-e7c6-4544-9234-cf0e2391afc9" />
 <img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/6c328e05-72c2-4e15-b556-deba48140401" />
 Testing from Amazon Bedrock Runtime Agent 
